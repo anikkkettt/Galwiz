@@ -1,0 +1,37 @@
+{
+  "moreAboutMe": {
+    "age": 21,
+    "drinker": "No",
+    "height": 164,
+    "smoker": "No",
+    "socialButterfly": 30,
+    "spiritual": 45,
+    "spontaneous": 40,
+    "traditional": 40
+  },
+  "myIdealMatch": {
+    "age": { "start": 22.0, "end": 31.0 },
+    "drinker": "No",
+    "height": { "start": 142.0, "end": 169.5 },
+    "smoker": "No",
+    "socialButterfly": 45,
+    "spiritual": 60,
+    "spontaneous": 35,
+    "traditional": 60
+  },
+  "notificationsToken": "dkvqoyJwTV603P9MOz44nv:APA91bFaRPUJFTQ0fSZTIRKz9bF4yJwVIE0NDKMCP25Lr3AVxXTTD4b8QUD5oG9Tq5e2NQaVxRXWUul8AEFIJFSrTzgjxSxCfUSqazdes8RNuY77mrVSS3e099PyV8DbU0RXxIJUIKzE",
+  "authToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFkMWIxOWYwZjU4ZTJjOWE5Njc3M2M5MmNmODA0NDEwMTc5NzEzMjMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbmVjdGFyZGF0aW5nLTFmYzM1IiwiYXVkIjoibmVjdGFyZGF0aW5nLTFmYzM1IiwiYXV0aF90aW1lIjoxNjYwNjQyMTI0LCJ1c2VyX2lkIjoibGJlMEdFOUtzRU1hZUJPelVNNWV3ZEJMWWhzMSIsInN1YiI6ImxiZTBHRTlLc0VNYWVCT3pVTTVld2RCTFloczEiLCJpYXQiOjE2NjA2NDIxMjQsImV4cCI6MTY2MDY0NTcyNCwicGhvbmVfbnVtYmVyIjoiKzkxOTEyNTgzMTAwOCIsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsicGhvbmUiOlsiKzkxOTEyNTgzMTAwOCJdfSwic2lnbl9pbl9wcm92aWRlciI6InBob25lIn19.WOJQRPnjmw4HZQus8qLZ9fWrx3R4WPgMwu8zw__49jlNziOLND7qMebztSvmNrI8LHcrtoMuDQaqWVceXJaKVYvyrFwP2tnvtTKwjRQkejO3MJWRxMviOUqEVfYJN74k9yI0KGcZdviHObIGQ2FsWH3LcTwnztOfovWBezDZuoiK7RQFvjuD7D_nhVj_N1lHp8B0YK4mV3PedA5H30_E3urn5sH5Rnfywj62vz8ljGow4JVWZsJUKbNAwDBpafBCg_fzWkNZMzIVtxRDFQ4qh8sFzwjltuxC9XJqGQRGoEL6EdZLuThrTCF7ahgeUYw_nFZxSykQQbzquwgXjSViXA",
+  "name": "Agora",
+  "dob": "2001-08-16",
+  "iIdentifyAs": "Straight Male",
+  "myInterests": ["Photography", "Walking", "Rock climbing", "Beach"],
+  "lookingFor": "Straight Female",
+  "yourStarSign": "Leo",
+  "readyFor": "A relationship",
+  "latitude": 26.8828065,
+  "longitude": 81.0391056,
+  "iAmCurrently": "Single",
+  "email": null,
+  "phone": "+919125831008",
+  "children": "No"
+}

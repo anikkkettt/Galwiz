@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a660f3fe.css",
+    "main.js": "/static/js/main.8a7a6763.js",
+    "static/js/787.c01dbfb4.chunk.js": "/static/js/787.c01dbfb4.chunk.js",
+    "static/media/intern1.jpg": "/static/media/intern1.bbc6e1e42bfe3512006f.jpg",
+    "static/media/map.png": "/static/media/map.c471e265af03c21a1b7d.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/image 15.png": "/static/media/image 15.581a98ff731ec152adcf.png",
+    "static/media/image 11.png": "/static/media/image 11.74522bdd12e16ba4d961.png",
+    "static/media/image 9.png": "/static/media/image 9.b43e858501776c591645.png",
+    "static/media/image 10.png": "/static/media/image 10.605e42ab22576c0fe912.png",
+    "static/media/image 14.png": "/static/media/image 14.c91443da756fc35ffeb0.png",
+    "static/media/image 12.png": "/static/media/image 12.91f05296c219533d268c.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/image 7.png": "/static/media/image 7.804159c10fc4c62d654d.png",
+    "static/media/image 13.png": "/static/media/image 13.6c44dbf514bb367518f1.png",
+    "static/media/graph1.png": "/static/media/graph1.1b1a3f1d5371d2e24f53.png",
+    "static/media/graph2.png": "/static/media/graph2.1b1a3f1d5371d2e24f53.png",
+    "static/media/image 8.png": "/static/media/image 8.1b1a3f1d5371d2e24f53.png",
+    "static/media/mike.jpg": "/static/media/mike.32de9946fde6bd212bd3.jpg",
+    "static/media/jha.jpg": "/static/media/jha.cdbb8bb8d8c9822e48d5.jpg",
+    "static/media/content1.png": "/static/media/content1.2fc44d058982019c61c7.png",
+    "index.html": "/index.html",
+    "main.a660f3fe.css.map": "/static/css/main.a660f3fe.css.map",
+    "main.8a7a6763.js.map": "/static/js/main.8a7a6763.js.map",
+    "787.c01dbfb4.chunk.js.map": "/static/js/787.c01dbfb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a660f3fe.css",
+    "static/js/main.8a7a6763.js"
+  ]
+}

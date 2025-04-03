@@ -1,0 +1,11 @@
+.width {
+  width: 70% !important;
+  font-weight: bold !important;
+}
+
+@media (max-width: 576px) {
+  .width {
+    width: 100% !important;
+    font-weight: bold !important;
+  }
+}
