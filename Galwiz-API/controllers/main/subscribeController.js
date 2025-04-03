@@ -1,4 +1,4 @@
-const Subscribe = require("../../models/main/SubscribeModel");
+const Subscribe = require("../../models/main/subscribeModel");
 const excel = require("exceljs");
 
 exports.createSubscribe = async (req, res) => {
